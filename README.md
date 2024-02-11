@@ -5,5 +5,5 @@ This project was initially undertaken during the Network Science course by Ali E
 
 ## Contributors
 
-* [Contributor Name] ([https://github.com/Fateme-RamezanZade])
+[Linked Text](https://github.com/Username)
 
