@@ -3,7 +3,3 @@ Persian is a rich and complex language that poses many challenges for natural la
 
 This project was initially undertaken during the Network Science course by Ali Ekramian and Fateme RamezanZadeh in the fall semester of 2023.
 
-## Contributors
-
-[Linked Text](https://github.com/Username)
-
